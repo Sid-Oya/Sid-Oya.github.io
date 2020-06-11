@@ -25,8 +25,8 @@ description: "agent of change"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - # Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - # Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/sid-oya"
   Author's home: "http://Sid-Oya.github.io"
 
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   github: Sid-Oya
-  twitter: @IapproveDS
+  twitter: https://twitter.com/IapproveDS
   reddit: Sid-Oya
   # email: "someone@example.com"
  # facebook: daattali
