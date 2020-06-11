@@ -44,7 +44,7 @@ avatar: "/img/1342409.jpg"
 
 navbar-col: "#000000"
 navbar-text-col: "#000000"
-navbar-children-col: "#000000"
+navbar-children-col: "#3d3b3b"
 page-col: "#fafafa"
 link-col: "#fafafa"
 hover-col: "#522078"
