@@ -4,9 +4,6 @@ title: Cue Laughter
 image: !(https://i.insider.com/5d5eb0582da4481e754e796c?width=700&format=jpeg&auto=webp)
 ---
 
-#   Data Science
-
-
 ### There are 10 kinds of people in this world, those who understand binary, and those who don’t.
 
 
