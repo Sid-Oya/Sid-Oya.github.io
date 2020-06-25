@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Scientist
+title: Data Scientist Sid-Oya
 
 # Short description of your site
 description: "agent of change"
@@ -24,7 +24,7 @@ description: "agent of change"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  #Resources:
     - # Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - # Learn markdown: "http://www.markdowntutorial.com/"
   GitHub Pages: "https://github.com/sid-oya"
@@ -107,10 +107,19 @@ url-pretty: "Sid-Oya.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170800430-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-170800430-1');
+</script>
+"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-170800430-1"
 
 # Google Tag Manager ID
 #gtm: ""
