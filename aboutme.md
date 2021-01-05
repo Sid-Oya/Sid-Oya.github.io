@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: #Sid-Oya
+subtitle: #Sidoney
 ---
 
-Mother. Educator. Aspiring Data Scientist. Data Driven. Equity Driven. “Spread Love, It’s The Brooklyn Way”
+Mother. Educator. Veteran. Techie. “Spill the Data”
 
 ### Black Lives Matter
 
