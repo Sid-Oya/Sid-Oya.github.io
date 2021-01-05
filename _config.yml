@@ -17,7 +17,7 @@ baseurl: ""
 title: Sid-Oya
 
 # Short description of your site
-description: "aspiring data scientist"
+description: "Spill the Data"
 
 # --- Navigation bar options --- #
 
@@ -64,7 +64,7 @@ footer-link-col: "#8e0af2"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Sid-Oya
+  name: Sidoney
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: false
   github: Sid-Oya
-  twitter: IapproveDS
+  twitter: Sid_Oya
   reddit: Sid-Oya
   # email: "someone@example.com"
  # facebook: daattali
